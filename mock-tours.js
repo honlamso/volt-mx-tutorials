@@ -36,7 +36,7 @@ fs.mkdir(`${MOCK_PATH}/tour/details`, { recursive: true }, (err) => {
 
             // static temporarily
             const download_url = `https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/${process
-              .env.GIT_BRANCH || "phx-dev"}/public/contents/${directory}/zips/${
+              .env.GIT_BRANCH || "test"}/public/contents/${directory}/zips/${
               tour.fileName
             }`;
 
