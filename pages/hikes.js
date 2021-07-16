@@ -1,14 +1,17 @@
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
+import { useTranslation } from 'react-i18next';
 import HikeHeader from '../src/components/HikeHeader';
 import ToursList from '../src/components/ToursList';
 import styles from './style.scss';
 import { getMapCategories } from '../src/utils/populate';
-import i18next from '../i18n';
+// import i18next from '../i18n';
+
 
 const HikePage = () => {
   const [categories, setCategories] = useState([]);
   const router = useRouter();
+  const { i18n: i18next } = useTranslation();
 
   const getHikes = async () => {
     const categoriesMaps = await getMapCategories();
@@ -18,7 +21,7 @@ const HikePage = () => {
   useEffect(() => {
     getHikes();
     return () => {};
-  }, [i18next.language, router.asPath]);
+  }, [i18next.language]);
 
   useEffect(() => {
     const path = router.asPath.split(/\?/);
