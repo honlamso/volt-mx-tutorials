@@ -7,7 +7,7 @@
     "fileSize": "23.26 KB",
     "fileName": "flexpropertiesv9.zip",
     "fid": 17802,
-    "checksum": "2a1b3bf6be547c74d98321f9393aacda33ee98a1ef0151a560162e1c309ad9d1",
+    "checksum": "f4c2637c6d3980bd461e200c4cba52767f2b8871ed561f0fdb60afb37e534e69",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/flex-layout-properties-0",
     "alias": "hikes/tour/flex-layout-properties-0",
     "description": "Manage flex layout using properties.",
@@ -15,11 +15,13 @@
     "cards": 15,
     "time": "16 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Develop the Front End"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "dfa781t7-7ea4-48r2-86u3-6b9465n9",
     "hikeVersion": "1.0",
     "weight": "3",
-    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev/public/contents/4-develop-the-front-end/zips/flexpropertiesv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/flexpropertiesv9.zip"
   }
 }

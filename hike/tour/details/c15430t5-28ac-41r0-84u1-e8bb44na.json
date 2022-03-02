@@ -7,7 +7,7 @@
     "fileSize": "13.75 KB",
     "fileName": "pubishappenterprisestorev9.zip",
     "fid": 17127,
-    "checksum": "10621f87881ec61f5f27d452eef68965a1fc20e97094bb2abfdde200a73abc5f",
+    "checksum": "5443279f8e2da5bd908095077c56a1902ee32825cace80dc7915c408fdb8d344",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/publish-app-enterprise-store",
     "alias": "hikes/tour/publish-app-enterprise-store",
     "description": "Learn how to publish an app to an Enterprise App store",
@@ -15,11 +15,13 @@
     "cards": 7,
     "time": "10 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Build Your First Mobile App"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "c15430t5-28ac-41r0-84u1-e8bb44na",
     "hikeVersion": "1.0",
     "weight": "11",
-    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev/public/contents/2-build-your-first-mobile-app/zips/pubishappenterprisestorev9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/2-build-your-first-mobile-app/zips/pubishappenterprisestorev9.zip"
   }
 }

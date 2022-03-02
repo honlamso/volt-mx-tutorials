@@ -7,7 +7,7 @@
     "fileSize": "17.39 KB",
     "fileName": "usesampleservicesv9.zip",
     "fid": 17159,
-    "checksum": "e083967087721f9b542cce9331341b757b9539c943e812fb27e59d94f1ae2c89",
+    "checksum": "5bba89d842a3482f2af471ed550a6944d57c1ed25ae90186cbdcf3cbc4302b94",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/use-sample-services-0",
     "alias": "hikes/tour/use-sample-services-0",
     "description": "Connect a sample back-end database to a form",
@@ -15,11 +15,13 @@
     "cards": 11,
     "time": "12 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Manage Back-End Services"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "d75f6et0-c0af-4dr3-bbue-03c122nd",
     "hikeVersion": "1.0",
     "weight": "4",
-    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev/public/contents/5-manage-back-end-services/zips/usesampleservicesv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/5-manage-back-end-services/zips/usesampleservicesv9.zip"
   }
 }

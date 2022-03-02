@@ -7,7 +7,7 @@
     "fileSize": "20.45 KB",
     "fileName": "createservices_v9.zip",
     "fid": 17120,
-    "checksum": "af10e6ca88ca1d88ed79dfa55929e385fb6560de6ce8996595907d304fd2b296",
+    "checksum": "6898f261a9c3a2093fd45e9f6f735a8112ab4b497ab8b158d4fec7f30124a26a",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/creating-services-back-end-data",
     "alias": "hikes/tour/creating-services-back-end-data",
     "description": "Create services for the back-end data",
@@ -15,11 +15,13 @@
     "cards": 11,
     "time": "10 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Build Your First Mobile App"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "a7a762t5-3eac-44r5-8bu2-89b781n1",
     "hikeVersion": "1.0",
     "weight": "4",
-    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev/public/contents/2-build-your-first-mobile-app/zips/createservices_v9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/2-build-your-first-mobile-app/zips/createservices_v9.zip"
   }
 }

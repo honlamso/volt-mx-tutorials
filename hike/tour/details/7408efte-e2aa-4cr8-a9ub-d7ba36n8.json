@@ -7,19 +7,21 @@
     "fileSize": "20.45 KB",
     "fileName": "launchyourfirstmobileappv92.zip",
     "fid": 17790,
-    "checksum": "2bb6fe7fa9f99bffdfab45a81bb8695e7625250cb456801e1224061c0b788e68",
+    "checksum": "b064d8d7bebcdf0633035a462e81e375f1b9485d5cce60f7ffcbd36a8121ed87",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/launch-your-first-mobile-app-1",
     "alias": "hikes/tour/launch-your-first-mobile-app-1",
     "description": "Open a native mobile app and preview it on your mobile device.",
-    "details": "<p><!--StartFragment--></p> <p><br /> This learning module is a Volt MX HIKE. &nbsp;A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar:&nbsp;</p> <p> &nbsp;</p> <p>Learn how to:&nbsp;</p> <p>&nbsp; &nbsp; Import a sample native app that shows lists of Accounts and Recipients&nbsp;</p> <p>&nbsp; &nbsp; Preview the sample app on a mobile device&nbsp;</p> <p><!--EndFragment--></p>",
-    "cards": 12,
+    "details": "<p><!--StartFragment--></p> <p><br /> This learning module is a Volt MX HIKE. &nbsp;A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar:&nbsp;</p> <p> &nbsp;</p> <p>Learn how to:&nbsp;</p><ul> <li>Import a sample native app that shows lists of Accounts and Recipients</li> <li>Preview the sample app on a mobile device</li></ul><p><!--EndFragment--></p>",
+    "cards": 11,
     "time": "11 Mins",
     "platformVersion": "Iris 9.2",
-    "category": [],
+    "category": [
+      "Build Your First Mobile App"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "7408efte-e2aa-4cr8-a9ub-d7ba36n8",
     "hikeVersion": "1.0",
     "weight": "1",
-    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev/public/contents/2-build-your-first-mobile-app/zips/launchyourfirstmobileappv92.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/2-build-your-first-mobile-app/zips/launchyourfirstmobileappv92.zip"
   }
 }

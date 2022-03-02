@@ -7,7 +7,7 @@
     "fileSize": "16.64 KB",
     "fileName": "launchyourrwapp92.zip",
     "fid": 17791,
-    "checksum": "2576c1d3f032d6c7782116a10f88d92b293c175b1bf1d25b2fb7b654f7577c52",
+    "checksum": "15573e6a1d14a3cd1296ada126a2978131b377ebff6fd9279d5eec8d93a0185f",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/launch-your-responsive-web-app-0",
     "alias": "hikes/tour/launch-your-responsive-web-app-0",
     "description": "Launch your Responsive Web App",
@@ -15,11 +15,13 @@
     "cards": 10,
     "time": "10 Mins",
     "platformVersion": "Iris 9.2",
-    "category": [],
+    "category": [
+      "Build Your First Web App"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "705a94tb-faa0-47r7-a1ud-31b3dbnf",
     "hikeVersion": "1.0",
     "weight": "1",
-    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev/public/contents/3-build-your-first-web-app/zips/launchyourrwapp92.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/launchyourrwapp92.zip"
   }
 }
