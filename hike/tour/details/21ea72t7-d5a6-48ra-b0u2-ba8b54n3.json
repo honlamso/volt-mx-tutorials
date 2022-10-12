@@ -4,10 +4,10 @@
     "title": "Add an Authentication Source",
     "created": 1585630068,
     "updated": 1615281900,
-    "fileSize": "32.38 KB",
+    "fileSize": "26.19 KB",
     "fileName": "userrepositoryauthenticationv9.zip",
     "fid": 17806,
-    "checksum": "054740b7dd2b7db33662b8ce34d3b008a13ba5d2053c09e7364a25007d0d0591",
+    "checksum": "ff2595db5ac62e2f0554d35bf2ba4540f09de29768864038d1e88db7593f4819",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-authentication-source-0",
     "alias": "hikes/tour/add-authentication-source-0",
     "description": "Add Volt MX User Repository to your app to authorize users.",
@@ -15,7 +15,9 @@
     "cards": 19,
     "time": "17 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Manage Back-End Services"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "21ea72t7-d5a6-48ra-b0u2-ba8b54n3",
     "hikeVersion": "1.0",
