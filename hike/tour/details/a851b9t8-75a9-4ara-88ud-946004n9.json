@@ -4,10 +4,10 @@
     "title": "Creating Services for Back-end Data",
     "created": 1585628138,
     "updated": 1586946740,
-    "fileSize": "16.57 KB",
+    "fileSize": "20.28 KB",
     "fileName": "createservicesweb_v9.zip",
     "fid": 17163,
-    "checksum": "478f463e9ad16f8c7661b52994db9cc519d847b02f8dfd4c66241d1b65a95925",
+    "checksum": "fd53fd77882488e3cd2395d0d65058bb6e19b3931ec89b4e18f1718fb3900cb3",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/creating-services-back-end-data-0",
     "alias": "hikes/tour/creating-services-back-end-data-0",
     "description": "Creating Services for Back-end Data",
@@ -15,9 +15,7 @@
     "cards": 11,
     "time": "10 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [
-      "Build Your First Web App"
-    ],
+    "category": [],
     "image": "/default/hike-default.png",
     "kuid": "a851b9t8-75a9-4ara-88ud-946004n9",
     "hikeVersion": "1.0",

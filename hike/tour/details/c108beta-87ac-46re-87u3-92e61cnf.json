@@ -4,10 +4,10 @@
     "title": "Add Edit Recipient",
     "created": 1585628395,
     "updated": 1615281000,
-    "fileSize": "42.13 KB",
+    "fileSize": "60.11 KB",
     "fileName": "editpayeeweb_v9.zip",
     "fid": 17799,
-    "checksum": "a9a203e82a8bf7ddb048ad734f1342acbf1d9dd7f1a580415043edd5c5b1b32e",
+    "checksum": "7cc9592f5de35ff8f512dc23bfd308e564dcaa4d964eacef4440eee47cb0b350",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-edit-recipient-0",
     "alias": "hikes/tour/add-edit-recipient-0",
     "description": "Add the capability to edit the details of a recipient.",
@@ -15,9 +15,7 @@
     "cards": 34,
     "time": "35 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [
-      "Build Your First Web App"
-    ],
+    "category": [],
     "image": "/default/hike-default.png",
     "kuid": "c108beta-87ac-46re-87u3-92e61cnf",
     "hikeVersion": "1.0",

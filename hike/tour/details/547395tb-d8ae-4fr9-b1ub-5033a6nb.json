@@ -4,10 +4,10 @@
     "title": "Add Create Recipient",
     "created": 1585628321,
     "updated": 1615280783,
-    "fileSize": "31.68 KB",
+    "fileSize": "42.82 KB",
     "fileName": "addcreatepayeeweb_v9.zip",
     "fid": 17798,
-    "checksum": "fc2b4a4118ca0d346159a4a6c23a1fe8d63fe7de31409cbea8282e15f6e137fd",
+    "checksum": "97384e9ac14fe85e5a6c0a7c0ee429f93649f7a07e613bd7e122a071b7f23b8e",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-create-recipient-0",
     "alias": "hikes/tour/add-create-recipient-0",
     "description": "Add Create Recipient",
@@ -15,9 +15,7 @@
     "cards": 24,
     "time": "25 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [
-      "Build Your First Web App"
-    ],
+    "category": [],
     "image": "/default/hike-default.png",
     "kuid": "547395tb-d8ae-4fr9-b1ub-5033a6nb",
     "hikeVersion": "1.0",

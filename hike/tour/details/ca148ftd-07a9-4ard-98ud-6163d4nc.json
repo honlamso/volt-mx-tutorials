@@ -4,10 +4,10 @@
     "title": "Connect App UI to Data",
     "created": 1585628202,
     "updated": 1615280556,
-    "fileSize": "19.06 KB",
+    "fileSize": "24.57 KB",
     "fileName": "connecttheappuitodata-webv9.zip",
     "fid": 17797,
-    "checksum": "c9358b6121b2e0aa64847d0bb7a3ed4ed3ad82f78b113fa6f6ad32842f6e17f7",
+    "checksum": "0d96d4e278f3f365ce977826b3b7d16001865f8bf03ac88f8c93c7cff41f3f21",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/connect-app-ui-data-0",
     "alias": "hikes/tour/connect-app-ui-data-0",
     "description": "Connect App UI to Data",
@@ -15,9 +15,7 @@
     "cards": 13,
     "time": "15 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [
-      "Build Your First Web App"
-    ],
+    "category": [],
     "image": "/default/hike-default.png",
     "kuid": "ca148ftd-07a9-4ard-98ud-6163d4nc",
     "hikeVersion": "1.0",
